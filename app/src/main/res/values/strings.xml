@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">Roverinfo</string>
     <string name="mars_rover">Mars Rover</string>
+    <string name="under_process">under process</string>
+    <string name="nasa_rover_data">NASA ROVER DATA</string>
+    <string name="enter_earth_date">Enter Date ( dd-mm-yyyy)</string>
+    <string name="camera_information">Camera Information</string>
+    <string name="rover_camera_details">ROVER CAMERA DETAILS</string>
 </resources>
